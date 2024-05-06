@@ -1,7 +1,7 @@
 <h1 align="center">IS-C Integrasoft Consulting</h1>
 <h3 align="center">Con nuestro componente de Integralidad, desarrollamos soluciones de negocio y tecnológicas que ayudan a potenciar sus procesos</h3>
 
-- 📝 Puedes visitarnos en [https://integrasoft-consulting.cl/](https://is-c.cl/)
+- 📝 Puedes visitarnos en [https://is-c.cl/](https://is-c.cl/)
 
 - 💬 Pregúntame sobre **C#, ASP.NET, SQL Server,**
 
