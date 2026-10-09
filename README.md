@@ -15,7 +15,7 @@ digita a mano y desarrollamos el software que falta alrededor del ERP.
 
 ## Qué hacemos
 
-| | |
+| Línea | Qué incluye |
 | :-- | :-- |
 | **[Flexline ERP](https://www.is-c.cl/soluciones/flexline/?utm_source=github&utm_medium=profile)** | Integración, automatización, migración y soporte. Pedidos, documentos y conciliaciones que entran solos al ERP. |
 | **[Desarrollo a medida](https://www.is-c.cl/soluciones/desarrollo/?utm_source=github&utm_medium=profile)** | Lo que el ERP no hace: aplicaciones de escritorio, portales web y servicios backend que se integran con lo que ya usas. |
