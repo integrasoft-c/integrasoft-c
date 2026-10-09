@@ -1,17 +1,47 @@
-<h1 align="center">IS-C Integrasoft Consulting</h1>
-<h3 align="center">Con nuestro componente de Integralidad, desarrollamos soluciones de negocio y tecnológicas que ayudan a potenciar sus procesos</h3>
+<div align="center">
 
-- 📝 Puedes visitarnos en [https://is-c.cl/](https://is-c.cl/)
+# IS-C
 
-- 💬 Pregúntame sobre **C#, ASP.NET, SQL Server,**
+**Tu Flexline ERP conectado con el resto de tu operación.**
 
-- 📫 Puedes escribirnos a **contacto@is-c.cl**
+Integramos Flexline con tu tienda, tu bodega y tu contabilidad, automatizamos lo que hoy se
+digita a mano y desarrollamos el software que falta alrededor del ERP.
 
-<h3 align="left">Conéctate con nosotros:</h3>
-<p align="left">
-<a href="https://dev.to/integrasoftc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="integrasoftc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/integrasoft-consulting-eirl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="integrasoft-consulting-eirl" height="30" width="40" /></a>
-</p>
+[is-c.cl](https://www.is-c.cl/?utm_source=github&utm_medium=profile) ·
+[Casos](https://www.is-c.cl/casos/?utm_source=github&utm_medium=profile) ·
+[Conversemos](https://www.is-c.cl/contacto/?utm_source=github&utm_medium=profile)
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+</div>
+
+## Qué hacemos
+
+| | |
+| :-- | :-- |
+| **[Flexline ERP](https://www.is-c.cl/soluciones/flexline/?utm_source=github&utm_medium=profile)** | Integración, automatización, migración y soporte. Pedidos, documentos y conciliaciones que entran solos al ERP. |
+| **[Desarrollo a medida](https://www.is-c.cl/soluciones/desarrollo/?utm_source=github&utm_medium=profile)** | Lo que el ERP no hace: aplicaciones de escritorio, portales web y servicios backend que se integran con lo que ya usas. |
+| **[IA aplicada](https://www.is-c.cl/servicios/ia-aplicada/?utm_source=github&utm_medium=profile)** | IA conectada a tus datos reales (Flexline, catálogo, Search Console), con una persona que aprueba donde corresponde. |
+| **[Infraestructura](https://www.is-c.cl/soluciones/infraestructura/?utm_source=github&utm_medium=profile)** | Servidores cloud y locales, redes entre sedes, respaldos probados y monitoreo. |
+
+## Con qué conectamos Flexline
+
+Shopify · Mercado Libre · Multivende · PrestaShop · WordPress · WMSTek · STG · Envíame ·
+Duemint · FollowUp · Flapp — [ver integraciones](https://www.is-c.cl/integraciones/?utm_source=github&utm_medium=profile)
+
+## Cómo trabajamos
+
+- Primero ordenamos el proceso, después el código.
+- Todos nuestros repos siguen un mismo estándar: Conventional Commits, GitFlow, releases
+  versionados con changelog y reglas comunes para agentes de código.
+- El código de cada cliente es privado. Los resultados están en
+  [casos](https://www.is-c.cl/casos/?utm_source=github&utm_medium=profile), sin nombrar al cliente
+  salvo que lo apruebe.
+
+## Stack
+
+C# / .NET · SQL Server · TypeScript · Astro · Next.js · Python · Shopify (Liquid) · MCP
+
+## Contacto
+
+[contacto@is-c.cl](mailto:contacto@is-c.cl) ·
+[LinkedIn](https://www.linkedin.com/company/73458754) ·
+[Instagram](https://www.instagram.com/integrasoftc/)
